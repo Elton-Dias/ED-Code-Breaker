@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ED-Code-Breaker
+- 👋 Hi, I’m Elton Dias aka @ED-Code-Breaker
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning Django
 - 💞️ I’m looking to collaborate on ...
